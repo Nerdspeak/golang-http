@@ -11,3 +11,6 @@ dependencies:
 - alias: preview
   name: golang-http
   repository: file://../golang-http
+- alias: db
+  version: "*"
+  repository: "alias:stable"
