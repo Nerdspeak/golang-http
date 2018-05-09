@@ -11,6 +11,3 @@ dependencies:
 - alias: preview
   name: golang-http
   repository: file://../golang-http
-- name: postgresql
-  version: 0.11.0
-  repository: https://kubernetes-charts.storage.googleapis.com
