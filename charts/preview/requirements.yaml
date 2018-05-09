@@ -11,7 +11,6 @@ dependencies:
 - alias: preview
   name: golang-http
   repository: file://../golang-http
-- alias: db
-  name: postgresql
+- name: postgresql
   version: "*"
   repository: "alias:stable"
